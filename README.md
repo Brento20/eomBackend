@@ -28,3 +28,12 @@ Install dependencies by running ***NPM i*** and you should be ready to demo the 
 |Able to UPDATE with post method | complete |
 |Able to DELETE with delete method | complete |
 
+<br>
+<br>
+
+## Links
+
+**Deployed Repo:** https://github.com/Brento20/eomBackend
+
+**Video of application:** https://youtu.be/wzPmPxCK_Rw
+
